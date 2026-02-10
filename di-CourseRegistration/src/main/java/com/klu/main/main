@@ -1,0 +1,21 @@
+private int rollNo;
+private String studentName;
+private stringCourseName;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+public void display(){
+System.out.println("ROllNo:"+rollNo);
